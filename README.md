@@ -1,5 +1,5 @@
 <a href="https://es.cooltext.com"><img src="https://images.cooltext.com/5643192.gif" width="490" height="121" alt="Bienvenidos
-" /></a>
+"/></a>
 <br /> 
 
 
